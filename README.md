@@ -7,6 +7,9 @@ Milkeeway is a simple, mobile-responsive user interface (UI) for a travel websit
 Features
 Responsive Design: Milkeeway's UI is optimized for various screen sizes, making it accessible on both desktop and mobile devices.
 
-Tailwind CSS: The project uses Tailwind CSS for styling, allowing for rapid development and easy customization of the design.
 
-React Components: The UI components are built using React, providing a modular structure for easy integration with backend services and data.
+- Vite <img height="16" width="16" src="https://cdn.simpleicons.org/vite" />
+
+-  <img height="16" width="16" src="https://cdn.simpleicons.org/tailwindcss" /> Tailwind CSS: The project uses Tailwind CSS for styling, allowing for rapid development and easy customization of the design.
+
+- <img height="16" width="16" src="https://cdn.simpleicons.org/react" />   React Components: The UI components are built using React, providing a modular structure for easy integration with backend services and data.
