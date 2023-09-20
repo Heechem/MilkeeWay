@@ -1,8 +1,12 @@
-# React + Vite
+# Milkeeway Travel UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Milkeeway is a simple, mobile-responsive user interface (UI) for a travel website built using React, Vite, and Tailwind CSS. This project focuses solely on the UI components and does not include backend functionality or data storage. It serves as a starting point for building a full-fledged travel website.
+
+Features
+Responsive Design: Milkeeway's UI is optimized for various screen sizes, making it accessible on both desktop and mobile devices.
+
+Tailwind CSS: The project uses Tailwind CSS for styling, allowing for rapid development and easy customization of the design.
+
+React Components: The UI components are built using React, providing a modular structure for easy integration with backend services and data.
