@@ -1,5 +1,8 @@
 # Milkeeway Travel UI
 
+https://melkeeway.netlify.app/
+
+![image](https://github.com/Heechem/MilkeeWay/assets/117024247/f6923e04-07d4-4621-8b76-81e0b2a233f8)
 
 
 Milkeeway is a simple, mobile-responsive user interface (UI) for a travel website built using React, Vite, and Tailwind CSS. This project focuses solely on the UI components and does not include backend functionality or data storage. It serves as a starting point for building a full-fledged travel website.
